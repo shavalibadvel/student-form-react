@@ -63,7 +63,7 @@ function App() {
     <div className="app-container">
       <div className="form-card">
         <h1 className="title">
-          Student<br />Registration Form
+          Student Registration Form
         </h1>
 
         <form onSubmit={handleSubmit} noValidate>
